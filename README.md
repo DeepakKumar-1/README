@@ -13,7 +13,7 @@ Searching Algorithms : <br />
     Worse Case : O(n)    <br />
     Average Case : O(n/2)  <br />
     
-[Linear Search Code](https://github.com/user/repo/blob/branch/other_file.md)    
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/dbf6761db8ac24bfba67ae73f83e3cd252a11dc8/Linear%20Search)    
 
 **2. Binary Search** 
 
