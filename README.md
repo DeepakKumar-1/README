@@ -12,6 +12,8 @@ Searching Algorithms : <br />
     Best Case :  O(1)    <br />
     Worse Case : O(n)    <br />
     Average Case : O(n/2)  <br />
+    
+[Linear Search Code](https://github.com/user/repo/blob/branch/other_file.md)    
 
 **2. Binary Search** 
 
