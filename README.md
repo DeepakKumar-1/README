@@ -2,7 +2,7 @@
 
 **Arrays** <br />
 
-# Searching Algorithms  <br />
+# Searching <br />
 
 **1. Linear Search**
 
