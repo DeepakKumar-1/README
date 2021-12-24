@@ -104,3 +104,9 @@
     Best Case :  O(n+k)  <br />
     Worse Case : O(n+k)    <br />
     Average Case : O(n+k)  <br />     
+
+# Linked Lists 
+A _Linked List_ is a Linear Data Structure includes series of Connected Nodes, they are Linked with the help of pointers, Here Each Node has Data and Address Part  <br />
+* ***Singly Linked List*** : _Sequence of Nodes where Each Node Points to Next Node and Last Node Points to NULL_  <br />
+* **_Doubly Linked List_** : _Sequence of Nodes where each Node Contains Two Pointers prev(To point Previous Node) and Next(To point Next Node) and Last Node of the Sequence Points to NULL_  <br />
+* **_Circular Linked List_** : _Sequence of Nodes where each Node points to Next Node and Last Node Points back to the First Node of the Sequence _   <br />
