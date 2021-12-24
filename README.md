@@ -41,7 +41,7 @@
 
 **Insertion Sort**
 
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Bubble%20Sort)
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Insertion%20Sort)
 
 ![Insertion Sort](https://user-images.githubusercontent.com/85002425/147346011-17b0ea20-bab7-4fc2-880d-bf62df263a69.gif)
 
