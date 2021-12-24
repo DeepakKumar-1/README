@@ -93,3 +93,14 @@
     Best Case :  O(nlogn)  <br />
     Worse Case : O(n^2)    <br />
     Average Case : O(nlogn)  <br />  
+    
+**Count Sort**
+
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Count%20Sort)
+
+![Count Sort](https://user-images.githubusercontent.com/85002425/147350923-dd4017ae-2d1f-49e6-af19-a284d25f4fb9.gif)
+
+**Time Complexity :**  <br />
+    Best Case :  O(n+k)  <br />
+    Worse Case : O(n+k)    <br />
+    Average Case : O(n+k)  <br />     
