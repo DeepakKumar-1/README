@@ -18,7 +18,7 @@ Searching Algorithms : <br />
 
 **2. Binary Search** 
 
-![BinarySearch](https://user-images.githubusercontent.com/85002425/147289342-6296df85-acee-40e5-8cfa-ae9cef37ffa6.gif)
+![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
 
 **Time Complexity :**  <br />
     Best Case :  O(1)  <br />
