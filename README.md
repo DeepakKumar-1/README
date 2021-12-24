@@ -18,6 +18,7 @@ Searching Algorithms : <br />
 
 **2. Binary Search** 
 
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Binary%20Search) 
 ![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
 
 **Time Complexity :**  <br />
