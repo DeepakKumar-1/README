@@ -60,3 +60,14 @@
     Best Case :  O(n^2)  <br />
     Worse Case : O(n^2)    <br />
     Average Case : O(n^2)  <br />    
+    
+**Cyclic Sort**
+
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Cyclic%20Sort)
+
+![cycle Sort](https://user-images.githubusercontent.com/85002425/147348970-dd41a2f6-f5fd-4c77-8546-9ee8c558e4df.jpg)
+
+**Time Complexity :**  <br />
+    Best Case :  O(n^2)  <br />
+    Worse Case : O(n^2)    <br />
+    Average Case : O(n^2)  <br />        
