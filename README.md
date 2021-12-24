@@ -110,7 +110,7 @@ A _Linked List_ is a Linear Data Structure includes series of Connected Nodes, t
 * ***Singly Linked List*** : Sequence of Nodes where Each Node Points to Next Node and Last Node Points to NULL <br />
 * **_Doubly Linked List_** : Sequence of Nodes where each Node Contains Two Pointers prev(To point Previous Node) and Next(To point Next Node) and First as well Last Node of the Sequence Points to NULL  <br />
 * **_Circular Linked List_** : Sequence of Nodes where each Node points to Next Node and Last Node Points back to the First Node of the Sequence  <br />
-**Time Complexity**
+**Time Complexity**  <br />
 Traversal : O(n) <br /> 
 Insertion : O(1)  <br /> 
 Deletion : O(1) <br /> 
