@@ -74,7 +74,7 @@
     
 **Merge Sort**
 
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Cyclic%20Sort)
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Merge%20Sort)
 
 ![Merge Sort](https://user-images.githubusercontent.com/85002425/147349715-16f292c4-603c-43cc-982a-aaaf8f3a1f61.gif)
 
@@ -85,7 +85,7 @@
     
 **Quick Sort**
 
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Cyclic%20Sort)
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Quick%20Sort)
 
 ![Quick Sort](https://user-images.githubusercontent.com/85002425/147349707-21fd9cf3-80df-4e67-b4b5-611c8f9d6e17.gif)
 
