@@ -49,3 +49,14 @@
     Best Case :  O(n)    When Array is Already Sorted   <br />
     Worse Case : O(n^2)    <br />
     Average Case : O(n^2)  <br />
+    
+**Selection Sort**
+
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Insertion%20Sort)
+
+![Selection Sort](https://user-images.githubusercontent.com/85002425/147348185-0210098a-7cce-473d-9c88-ce1e1cb0acd6.gif)
+
+**Time Complexity :**  <br />
+    Best Case :  O(n^2)  <br />
+    Worse Case : O(n^2)    <br />
+    Average Case : O(n^2)  <br />    
