@@ -25,3 +25,14 @@ Searching Algorithms : <br />
     Best Case :  O(1)  <br />
     Worse Case : O(logn)   <br />
     Average Case : O(logn)    <br />
+
+# Sorting
+
+**Bubble Sort**
+
+![bubbleSort](https://user-images.githubusercontent.com/85002425/147344877-0ba535fb-7099-47c1-8059-42a3f3343dc0.gif)
+
+**Time Complexity :**  <br />
+    Best Case :  O(n)    When Array is Already Sorted   <br />
+    Worse Case : O(n^2)    <br />
+    Average Case : O(n^2)  <br />
