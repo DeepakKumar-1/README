@@ -52,7 +52,7 @@
     
 **Selection Sort**
 
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Insertion%20Sort)
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Selection%20Sort)
 
 ![Selection Sort](https://user-images.githubusercontent.com/85002425/147348185-0210098a-7cce-473d-9c88-ce1e1cb0acd6.gif)
 
