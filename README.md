@@ -103,7 +103,15 @@
 **Time Complexity :**  <br />
     Best Case :  O(n+k)  <br />
     Worse Case : O(n+k)    <br />
-    Average Case : O(n+k)  <br />     
+    Average Case : O(n+k)  <br />    
+
+**Heap Sort**
+![Heapsort-example](https://user-images.githubusercontent.com/85002425/147473589-4b1a9651-7079-4a56-bfc1-dcfec9e2fda0.gif)
+
+**Time Complexity :**  <br />
+    Best Case :  O(nlogn)  <br />
+    Worse Case : O(nlogn)    <br />
+    Average Case : O(nlogn)  <br /> 
 
 # Linked Lists 
 A _Linked List_ is a Linear Data Structure includes series of Connected Nodes, they are Linked with the help of pointers, Here Each Node has Data and Address Part  <br />
