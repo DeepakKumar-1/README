@@ -105,7 +105,8 @@
     Worse Case : O(n+k)    <br />
     Average Case : O(n+k)  <br />    
 
-**Heap Sort**
+# Heap Sort
+
 ![Heapsort-example](https://user-images.githubusercontent.com/85002425/147473589-4b1a9651-7079-4a56-bfc1-dcfec9e2fda0.gif)
 
 **Time Complexity :**  <br />
