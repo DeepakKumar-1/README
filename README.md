@@ -42,27 +42,28 @@
 ![bubbleSort](https://user-images.githubusercontent.com/85002425/147344877-0ba535fb-7099-47c1-8059-42a3f3343dc0.gif)
 
 
-**Insertion Sort**
-
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Insertion%20Sort)
-
-![Insertion Sort](https://user-images.githubusercontent.com/85002425/147346011-17b0ea20-bab7-4fc2-880d-bf62df263a69.gif)
-
+### Insertion Sort
+* Insertion sort is a sorting algorithm that places an unsorted element at its suitable place in each iteration.
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Insertion%20Sort)<br>
 *Time Complexity :*  <br />
     Best Case :  `O(n)`    When Array is Already Sorted   <br />
     Worse Case : `O(n^2)`    <br />
     Average Case : `O(n^2)`  <br />
+
+![Insertion Sort](https://user-images.githubusercontent.com/85002425/147346011-17b0ea20-bab7-4fc2-880d-bf62df263a69.gif)
+
     
-**Selection Sort**
-
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Selection%20Sort)
-
-![Selection Sort](https://user-images.githubusercontent.com/85002425/147348185-0210098a-7cce-473d-9c88-ce1e1cb0acd6.gif)
-
+### Selection Sort
+* In selection sort, the first smallest element is selected from the unsorted array and placed at the first position. 
+* After that second smallest element is selected and placed in the second position. The process continues until the array is entirely sorted.
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Selection%20Sort)<br>
 *Time Complexity :*  <br />
     Best Case :  `O(n^2)`  <br />
     Worse Case : `O(n^2)`    <br />
     Average Case : `O(n^2)`  <br />    
+
+![Selection Sort](https://user-images.githubusercontent.com/85002425/147348185-0210098a-7cce-473d-9c88-ce1e1cb0acd6.gif)
+
     
 **Cyclic Sort**
 
