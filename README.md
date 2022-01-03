@@ -17,8 +17,11 @@
 
     
 
-**2. Binary Search** 
-
+### 2. Binary Search 
+* binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array.
+* Binary search compares the target value to the middle element of the array. 
+* If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. 
+* If the search ends with the remaining half being empty, the target is not in the array.
 [Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Binary%20Search) 
 ![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
 
