@@ -22,13 +22,12 @@
 * Binary search compares the target value to the middle element of the array. 
 * If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. 
 * If the search ends with the remaining half being empty, the target is not in the array.
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Binary%20Search) 
-![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
-
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Binary%20Search) <br>
 *Time Complexity :*  <br />
    * Best Case :  `O(1)`  <br />
    * Worse Case : `O(logn)`   <br />
    * Average Case : `O(logn)`    <br />
+![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
 
 # Sorting
 
