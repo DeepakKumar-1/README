@@ -7,7 +7,7 @@
 ### 1. Linear Search
 * Linear search is also called as sequential search algorithm. 
 * It is the simplest searching algorithm. In Linear search, we simply traverse the list completely and match each element of the list with the item whose location is to be found.
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/dbf6761db8ac24bfba67ae73f83e3cd252a11dc8/Linear%20Search)<br>
+*[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/dbf6761db8ac24bfba67ae73f83e3cd252a11dc8/Linear%20Search)<br>*
 *Time Complexity :*  <br />
    * Best Case :  `O(1)`   <br />
    * Worse Case : `O(n)`    <br />
