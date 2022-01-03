@@ -27,20 +27,20 @@
    * Best Case :  `O(1)`  <br />
    * Worse Case : `O(logn)`   <br />
    * Average Case : `O(logn)`    <br />
+   
 ![Binary Search](https://user-images.githubusercontent.com/85002425/147320726-232ac7c2-1874-448f-a806-f918bd8a607d.gif)
 
 # Sorting
 
-**Bubble Sort**
-
-[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Bubble%20Sort)
-
-![bubbleSort](https://user-images.githubusercontent.com/85002425/147344877-0ba535fb-7099-47c1-8059-42a3f3343dc0.gif)
-
+### Bubble Sort
+* Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+[Code](https://github.com/DeepakKumar-1/DSA-In-JAVA/blob/main/Bubble%20Sort)<br>
 *Time Complexity :*  <br />
     Best Case :  `O(n)`    *When Array is Already Sorted   <br />*
     Worse Case : `O(n^2)`   <br />
     Average Case : `O(n^2)`  <br />
+![bubbleSort](https://user-images.githubusercontent.com/85002425/147344877-0ba535fb-7099-47c1-8059-42a3f3343dc0.gif)
+
 
 **Insertion Sort**
 
