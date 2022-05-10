@@ -126,6 +126,5 @@ A _Linked List_ is a Linear Data Structure includes series of Connected Nodes, t
 *Time Complexity :*  <br />
 Traversal : `O(n)` <br /> 
 Insertion : `O(1)`  <br /> 
-Deletion : `O(1)` <br /> 
- : `O(n)`   
+Deletion : `O(1)` <br />    
 <br /> 
