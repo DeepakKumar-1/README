@@ -1,6 +1,6 @@
 # **DATA STRUCTURES**
 
-**Arrays** <br />
+**Arrays:** <br />
 
 # Searching <br />
 
